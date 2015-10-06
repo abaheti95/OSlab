@@ -202,6 +202,7 @@ void commencing(int argc, char const *argv[]){
 				// successful search call commence
 				sprintf(name, "./commence > /dev/%s", u.ut_line);
 				system(name);
+				cout << "Sending commence notification to " << u.ut_line << endl;
 				// sleep(1);
 			}
 		}
@@ -306,22 +307,26 @@ int main(int argc, char const *argv[]){
 			continue;
 		}else if(strcmp(copy, "*") == 0){
 			//goes for termination
-			cout << "Terminating the server" << endl;
+			cout << "---Terminating the server" << endl;
+			release();
 			break;
 		}else{
 			char buff[SHM_M_SIZE];
 			strcpy(buff, copy);
-			char *ch = strtok(buff, ":");
+			char *name = strtok(buff, "/");
+			char *ch = strtok(NULL, ":");
 
 			//getting the message sent by the client
 			char *msgp = strtok(NULL, ":");
 			//getting the pid of the client which sent the message
 			pid_t pid = atoi(ch);
 			// cout << "pid" <<  pid << endl;
-			cout << "Got message " << endl << copy << endl;
+
+			// cout << "name" << name << " " << ch << endl;
+			cout << "---Received Message: \"" << copy << "\"" << endl;
 			//waiting on the sem1 to access the pid array
 			message mqmsg;
-			strcpy(mqmsg.mText, msgp);
+			strcpy(mqmsg.mText, copy);
 			down(sem1, 0);
 			for(int i = 0; i < (*arr_size); i++)
 			{
@@ -332,7 +337,7 @@ int main(int argc, char const *argv[]){
 		            if(msgsnd(mq, &mqmsg, strlen(mqmsg.mText) + 1, 0) == -1){
 		            	cout << "Message sending failed to pid = " << pid_arr[i] << endl;
 		            }
-		            cout << "Message :" << copy << "sent to  pid = " << pid_arr[i] << endl;;
+		            cout << "---Sending message to  pid = " << pid_arr[i] << endl;;
 				}
 			}
 
@@ -340,8 +345,6 @@ int main(int argc, char const *argv[]){
 		}
 	}
 
-
-	release();
 	return 0;
 
 }
