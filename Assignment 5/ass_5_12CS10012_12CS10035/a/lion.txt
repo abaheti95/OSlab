@@ -1,0 +1,337 @@
+Lion Started 4 10
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 0			Lion 0
+After::Number of Lion in meat-pit 3 = 1			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+					 Meat in Pits 30 50 49
+Lion 1 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 1			Lion 1
+After::Number of Lion in meat-pit 3 = 2			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 30 50 48
+Lion 2 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 2
+After::Number of Lion in meat-pit 3 = 3			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 40 50 47
+Lion 3 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 3
+After::Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 in control of meat-pit 3
+
+
+					 Meat in Pits 39 50 46
+Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 0
+After::Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+					 Meat in Pits 36 50 45
+Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 1
+After::Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 36 50 44
+Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 2
+After::Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 36 50 43
+Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 3
+After::Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 in control of meat-pit 3
+
+
+					 Meat in Pits 35 50 42
+Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 0
+After::Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+					 Meat in Pits 32 50 41
+Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 1
+After::Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 32 50 40
+Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 2
+After::Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 32 50 39
+Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 3
+After::Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 in control of meat-pit 3
+
+
+					 Meat in Pits 32 50 38
+Number of Lion in meat-pit 3 = 4			Lion 0
+Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 0
+Lion 1 requesting food from meat-pit 3
+After::Number of Lion in meat-pit 3 = 3			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+Before::Number of Lion in meat-pit 3 = 3			Lion 1
+					 Meat in Pits 28 50 37
+After::Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 28 50 36
+Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 requesting food from meat-pit 3
+Number of Lion in meat-pit 3 = 3			Lion 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 2
+Lion 3 requesting food from meat-pit 3
+After::Number of Lion in meat-pit 3 = 3			Lion 2
+Before::Number of Lion in meat-pit 3 = 3			Lion 3
+After::Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 in control of meat-pit 3
+
+
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 28 50 35
+					 Meat in Pits 28 50 34
+Number of Lion in meat-pit 3 = 4			Lion 1
+Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 0
+After::Number of Lion in meat-pit 3 = 3			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+Number of Lion in meat-pit 3 = 3			Lion 3
+					 Meat in Pits 24 50 33
+Lion 1 requesting food from meat-pit 3
+Number of Lion in meat-pit 3 = 2			Lion 2
+Before::Number of Lion in meat-pit 3 = 1			Lion 1
+After::Number of Lion in meat-pit 3 = 2			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+Lion 3 requesting food from meat-pit 3
+					 Meat in Pits 24 50 32
+Before::Number of Lion in meat-pit 3 = 2			Lion 3
+After::Number of Lion in meat-pit 3 = 3			Lion 3
+Lion 2 requesting food from meat-pit 3
+Lion 3 in control of meat-pit 3
+
+
+					 Meat in Pits 24 50 31
+Before::Number of Lion in meat-pit 3 = 3			Lion 2
+After::Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 24 50 30
+Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 0
+After::Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+					 Meat in Pits 20 50 29
+Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 1
+After::Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 20 50 28
+Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 3
+Number of Lion in meat-pit 3 = 3			Lion 2
+After::Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 3 in control of meat-pit 3
+
+
+Lion 2 requesting food from meat-pit 3
+					 Meat in Pits 20 50 27
+Before::Number of Lion in meat-pit 3 = 3			Lion 2
+After::Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 19 50 26
+Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 0
+After::Number of Lion in meat-pit 3 = 4			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+					 Meat in Pits 16 50 25
+Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 1
+After::Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 16 50 24
+Number of Lion in meat-pit 3 = 4			Lion 3
+Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 3 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 3
+After::Number of Lion in meat-pit 3 = 3			Lion 3
+Lion 3 in control of meat-pit 3
+
+
+					 Meat in Pits 16 50 23
+Lion 2 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 2
+After::Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 14 50 22
+Number of Lion in meat-pit 3 = 4			Lion 0
+Number of Lion in meat-pit 3 = 4			Lion 1
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 0
+Lion 1 requesting food from meat-pit 3
+After::Number of Lion in meat-pit 3 = 3			Lion 0
+Before::Number of Lion in meat-pit 3 = 3			Lion 1
+Lion 0 in control of meat-pit 3
+
+
+After::Number of Lion in meat-pit 3 = 4			Lion 1
+					 Meat in Pits 12 50 21
+Number of Lion in meat-pit 3 = 3			Lion 2
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 11 50 20
+Number of Lion in meat-pit 3 = 3			Lion 3
+Lion 2 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 2
+Lion 3 requesting food from meat-pit 3
+After::Number of Lion in meat-pit 3 = 3			Lion 2
+Before::Number of Lion in meat-pit 3 = 3			Lion 3
+Lion 2 in control of meat-pit 3
+
+
+After::Number of Lion in meat-pit 3 = 4			Lion 3
+					 Meat in Pits 10 50 19
+Lion 3 in control of meat-pit 3
+
+
+					 Meat in Pits 10 50 18
+Number of Lion in meat-pit 3 = 4			Lion 1
+Number of Lion in meat-pit 3 = 4			Lion 0
+Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 1 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 1			Lion 1
+After::Number of Lion in meat-pit 3 = 2			Lion 1
+Number of Lion in meat-pit 3 = 1			Lion 2
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 8 50 17
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 1			Lion 0
+After::Number of Lion in meat-pit 3 = 2			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+					 Meat in Pits 6 50 16
+Lion 3 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 3
+After::Number of Lion in meat-pit 3 = 3			Lion 3
+Lion 3 in control of meat-pit 3
+
+
+					 Meat in Pits 5 50 15
+Lion 2 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 3			Lion 2
+After::Number of Lion in meat-pit 3 = 4			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+					 Meat in Pits 5 50 14
+Number of Lion in meat-pit 3 = 4			Lion 1
+Number of Lion in meat-pit 3 = 4			Lion 0
+Number of Lion in meat-pit 3 = 4			Lion 2
+Number of Lion in meat-pit 3 = 4			Lion 3
+Lion 1 requesting food from meat-pit 3
+Down karega Lion 3
+Lion 3 left meat-pit 3
+Before::Number of Lion in meat-pit 3 = 0			Lion 1
+After::Number of Lion in meat-pit 3 = 1			Lion 1
+Lion 1 in control of meat-pit 3
+
+
+					 Meat in Pits 5 49 13
+Koi uthane ko nahi hai Lion 3
+			Number of Jackals waiting 0
+			Number of Lions waiting 0
+Lion 3 giving signal to wait queue of all meat-pit
+Lion 0 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 1			Lion 0
+After::Number of Lion in meat-pit 3 = 2			Lion 0
+Lion 0 in control of meat-pit 3
+
+
+					 Meat in Pits 4 49 12
+Lion 2 requesting food from meat-pit 3
+Before::Number of Lion in meat-pit 3 = 2			Lion 2
+After::Number of Lion in meat-pit 3 = 3			Lion 2
+Lion 2 in control of meat-pit 3
+
+
+Lion 3 requesting food from meat-pit 2
+					 Meat in Pits 3 49 11
+Before::Number of Lion in meat-pit 2 = 0			Lion 3
+After::Number of Lion in meat-pit 2 = 1			Lion 3
+Lion 3 in control of meat-pit 2
+
+
+					 Meat in Pits 3 48 11
+Number of Lion in meat-pit 3 = 3			Lion 1
+Number of Lion in meat-pit 3 = 2			Lion 0
+Number of Lion in meat-pit 3 = 1			Lion 2
+Down karega Lion 2
+Lion 2 left meat-pit 3
+Number of Lion in meat-pit 2 = 1			Lion 3
+Down karega Lion 3
+			Number of Jackals waiting 1
+Lion 3 left meat-pit 2
+			Number of Lions waiting 0
+			Number of Jackals waiting 1
+			Number of Lions waiting 0
+Lion 2 giving signal to wait queue of all meat-pit
+Lion 3 giving signal to wait queue of all meat-pit

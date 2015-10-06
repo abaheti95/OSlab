@@ -1,0 +1,280 @@
+Jackal Started 4 10
+Jackal 0 requesting food from meat-pit 3
+Jackal 0 denied access
+Jackal 1 requesting food from meat-pit 3
+Jackal 1 denied access
+Jackal 2 requesting food from meat-pit 3
+Jackal 2 denied access
+Jackal 3 requesting food from meat-pit 3
+Jackal 3 denied access
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 39 50 47
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 in control of meat-pit 1
+
+
+					 Meat in Pits 38 50 46
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 37 50 46
+Jackal 3 requesting food from meat-pit 1
+Jackal 3 in control of meat-pit 1
+
+
+					 Meat in Pits 36 50 46
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 35 50 43
+Number of Jackal in meat-pit 1 = 4			Jackal 1
+Number of Jackal in meat-pit 1 = 4			Jackal 2
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 in control of meat-pit 1
+
+
+					 Meat in Pits 34 50 42
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+Number of Jackal in meat-pit 1 = 4			Jackal 3
+					 Meat in Pits 33 50 42
+Jackal 3 requesting food from meat-pit 1
+Jackal 3 in control of meat-pit 1
+
+
+					 Meat in Pits 32 50 42
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 31 50 38
+Number of Jackal in meat-pit 1 = 4			Jackal 1
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 in control of meat-pit 1
+
+
+Number of Jackal in meat-pit 1 = 4			Jackal 3
+					 Meat in Pits 30 50 38
+Jackal 3 requesting food from meat-pit 1
+Jackal 3 in control of meat-pit 1
+
+
+Number of Jackal in meat-pit 1 = 3			Jackal 2
+					 Meat in Pits 29 50 38
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 28 50 38
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Jackal 0 requesting food from meat-pit 1
+Number of Jackal in meat-pit 1 = 3			Jackal 3
+Jackal 0 in control of meat-pit 1
+
+
+Number of Jackal in meat-pit 1 = 3			Jackal 1
+Jackal 3 requesting food from meat-pit 1
+					 Meat in Pits 27 50 34
+Number of Jackal in meat-pit 1 = 2			Jackal 2
+Jackal 3 in control of meat-pit 1
+
+
+Jackal 1 requesting food from meat-pit 1
+					 Meat in Pits 26 50 34
+Jackal 1 in control of meat-pit 1
+
+
+Jackal 2 requesting food from meat-pit 1
+					 Meat in Pits 25 50 34
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 24 50 34
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Number of Jackal in meat-pit 1 = 3			Jackal 3
+Number of Jackal in meat-pit 1 = 2			Jackal 2
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 23 50 30
+Jackal 3 requesting food from meat-pit 1
+Number of Jackal in meat-pit 1 = 2			Jackal 1
+Jackal 3 in control of meat-pit 1
+
+
+					 Meat in Pits 22 50 30
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 21 50 30
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 in control of meat-pit 1
+
+
+					 Meat in Pits 20 50 30
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 19 50 27
+Number of Jackal in meat-pit 1 = 4			Jackal 3
+Jackal 3 requesting food from meat-pit 1
+Jackal 3 in control of meat-pit 1
+
+
+					 Meat in Pits 18 50 26
+Number of Jackal in meat-pit 1 = 4			Jackal 2
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 17 50 26
+Number of Jackal in meat-pit 1 = 4			Jackal 1
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 in control of meat-pit 1
+
+
+					 Meat in Pits 16 50 26
+Number of Jackal in meat-pit 1 = 4			Jackal 3
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Jackal 3 requesting food from meat-pit 1
+Jackal 3 in control of meat-pit 1
+
+
+					 Meat in Pits 15 50 23
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 14 50 23
+Number of Jackal in meat-pit 1 = 4			Jackal 2
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 13 50 22
+Number of Jackal in meat-pit 1 = 4			Jackal 1
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 in control of meat-pit 1
+
+
+					 Meat in Pits 12 50 22
+Number of Jackal in meat-pit 1 = 4			Jackal 3
+Jackal 3 requesting food from meat-pit 1
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Jackal 3 in control of meat-pit 1
+
+
+					 Meat in Pits 11 50 21
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 10 50 20
+Number of Jackal in meat-pit 1 = 4			Jackal 2
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 9 50 18
+Number of Jackal in meat-pit 1 = 4			Jackal 1
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 in control of meat-pit 1
+
+
+					 Meat in Pits 8 50 18
+Number of Jackal in meat-pit 1 = 4			Jackal 3
+Number of Jackal in meat-pit 1 = 4			Jackal 0
+Number of Jackal in meat-pit 1 = 4			Jackal 2
+Number of Jackal in meat-pit 1 = 1			Jackal 1
+Jackal 3 requesting food from meat-pit 1
+Down karega Jackal 1
+Jackal 1 left meat-pit 1
+Jackal 3 in control of meat-pit 1
+
+
+Koi uthane ko nahi hai Jackal 1
+					 Meat in Pits 7 50 17
+			Number of Jackals waiting 0
+			Number of Lions waiting 0
+Jackal 1 giving signal to wait queue of all meat-pit
+Jackal 0 requesting food from meat-pit 1
+Jackal 0 in control of meat-pit 1
+
+
+					 Meat in Pits 6 50 17
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 5 50 16
+Jackal 1 requesting food from meat-pit 2
+Jackal 1 in control of meat-pit 2
+
+
+					 Meat in Pits 5 49 14
+Number of Jackal in meat-pit 1 = 3			Jackal 3
+Number of Jackal in meat-pit 1 = 3			Jackal 0
+Jackal 3 requesting food from meat-pit 1
+Jackal 3 in control of meat-pit 1
+
+
+					 Meat in Pits 4 49 13
+Number of Jackal in meat-pit 2 = 1			Jackal 1
+Down karega Jackal 1
+Jackal 1 left meat-pit 2
+Jackal 0 requesting food from meat-pit 1
+Koi uthane ko nahi hai Jackal 1
+			Number of Jackals waiting 0
+			Number of Lions waiting 0
+Jackal 0 in control of meat-pit 1
+
+
+Jackal 1 giving signal to wait queue of all meat-pit
+					 Meat in Pits 3 49 12
+Number of Jackal in meat-pit 1 = 3			Jackal 2
+Jackal 1 requesting food from meat-pit 2
+Jackal 1 denied access
+Jackal 2 requesting food from meat-pit 1
+Jackal 2 in control of meat-pit 1
+
+
+					 Meat in Pits 2 48 11
+Jackal 1 requesting food from meat-pit 3
+Jackal 1 denied access
+Jackal 1 requesting food from meat-pit 1
+Jackal 1 denied access
+Jackal 1 in wait queue of meat-pit 1
+Number of Jackal in meat-pit 1 = 3			Jackal 3
+Number of Jackal in meat-pit 1 = 2			Jackal 0
+Number of Jackal in meat-pit 1 = 1			Jackal 2
+Down karega Jackal 2
+Jackal 2 left meat-pit 1
+Koi uthane ko nahi hai Jackal 2
+			Number of Jackals waiting 0
+			Number of Lions waiting 0
+Jackal 2 giving signal to wait queue of all meat-pit
+Jackal 1 requesting food from meat-pit 3
+Jackal 1 in control of meat-pit 3
+
+
+					 Meat in Pits 42 48 40
+Number of Jackal in meat-pit 3 = 1			Jackal 1
+Down karega Jackal 1
+Jackal 1 left meat-pit 3
+Koi uthane ko nahi hai Jackal 1
+			Number of Jackals waiting 0
+			Number of Lions waiting 0
+Jackal 1 giving signal to wait queue of all meat-pit
